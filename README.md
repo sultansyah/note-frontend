@@ -4,11 +4,11 @@ Ini adalah frontend untuk proyek **Note API**. Untuk backend, Anda dapat mengaks
 
 ## Teknologi yang Digunakan
 
-- **HTML**: Struktur dasar halaman web.
-- **CSS**: Styling dan layout.
-- **JavaScript**: Logika dan interaktivitas halaman.
-- **Bootstrap**: Framework CSS untuk tampilan yang responsif dan cepat.
-- **Fetch API**: Untuk melakukan komunikasi dengan backend, seperti mengambil data dan mengirimkan data ke server.
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Bootstrap**
+- **Fetch API**.
 
 ## Fitur yang Didukung
 
